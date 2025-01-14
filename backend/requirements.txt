@@ -1,0 +1,14 @@
+flask
+unstructured[all-docs]
+pillow
+lxml
+chromadb
+tiktoken
+langchain
+python_dotenv
+langchain-community
+openai
+langchain-groq
+langchain_openai
+pandas
+langchain-chroma
