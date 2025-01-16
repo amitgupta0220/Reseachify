@@ -1,0 +1,32 @@
+.documents-list ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.documents-list li {
+  display: flex;
+  justify-content: space-between;
+  padding: 0.5rem;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  margin-bottom: 0.5rem;
+}
+
+.documents-list button {
+  border: none;
+  padding: 0.3rem 0.8rem;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+.documents-list .bg-blue-500 {
+  background-color: #007bff;
+}
+
+.documents-list .bg-red-500 {
+  background-color: #ff4d4f;
+}
+
+.documents-list button:hover {
+  opacity: 0.8;
+}
