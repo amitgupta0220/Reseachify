@@ -12,3 +12,4 @@ langchain-groq
 langchain_openai
 pandas
 langchain-chroma
+flask-cors

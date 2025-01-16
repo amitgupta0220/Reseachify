@@ -73,8 +73,11 @@ from flask import Flask, request, jsonify, send_from_directory
 from services.pdf_processing import process_pdf
 from services.summarization import summarize_text_and_tables, summarize_images
 from services.vector_store import add_to_vectorstore, retrieve_documents, list_documents, delete_file
+from flask_cors import CORS
 
 app = Flask(__name__)
+CORS(app)
+
 DATA_DIR = "./data"
 os.makedirs(DATA_DIR, exist_ok=True)
 
