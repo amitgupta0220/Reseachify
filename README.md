@@ -248,9 +248,8 @@ Ensure you have the following installed:
 ## **Future Enhancements**
 
 1. **Authentication**: Implement user authentication for added security.
-2. **Chat Integration**: Build an interactive chat feature for querying documents.
-3. **Analytics Dashboard**: Visualize insights from uploaded documents.
-4. **Cloud Integration**: Store documents in cloud storage for scalability.
+2. **Analytics Dashboard**: Visualize insights from uploaded documents.
+3. **Cloud Integration**: Store documents in cloud storage for scalability.
 
 ---
 
