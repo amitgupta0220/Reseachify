@@ -4,6 +4,28 @@ Researchify is a web-based application designed to simplify document management 
 
 ---
 
+# Screenshots of Researchify
+
+## Home Page
+
+The home page provides an overview of Researchify's features with a clean and intuitive design.
+![Home Page](./home.png)
+
+## Upload Page
+
+Upload documents seamlessly for processing and analysis.
+![Upload Page](./upload.png)
+
+## Documents Page
+
+View all your uploaded documents, with options to download, delete, or chat with the AI.
+![Documents Page](./documents.png)
+
+## Chat Feature
+
+Interact with the AI assistant for detailed analysis and insights on your uploaded documents.
+![Chat Feature](./chat.png)
+
 ## **Features**
 
 ### **1. Document Upload and Processing**
